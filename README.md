@@ -1,4 +1,4 @@
-1.Add the Jasper reports dependency in pom.xml
+1.Add the Jasper reports dependency in the pom.xml
 
 2.create a database entity 
 
